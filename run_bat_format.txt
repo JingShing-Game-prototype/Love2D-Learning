@@ -1,0 +1,3 @@
+@ECHO
+
+start "" "address you put love" .
