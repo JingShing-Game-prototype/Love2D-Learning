@@ -71,3 +71,12 @@ love2D 3 main function
 >	-- display graphics on the screen
 >end
 
+## Attempt to index local 'self' (a nil value)
+
+> self.fucntion(self, dt) => self:function(dt)
+
+## Windows Distribution
+
+1. Make sure to select all scripts and assets and create a "Zip" file
+2. Rename ".zip" to ".love"
+3. Using cmd with this command    `copy /b love.exe+SuperGame.love SuperGame.exe`
