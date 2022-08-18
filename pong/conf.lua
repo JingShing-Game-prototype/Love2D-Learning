@@ -3,7 +3,7 @@ function love.conf(t)
     -- the title of the window of the game is in (string)
     t.version = "11.4"
     -- The love version this game was made for (string)
-    t.console = true
+    t.console = false
     -- attach a console (boolean, windows only)
     t.window.width = 1280
     -- the window width (number)
